@@ -1,10 +1,4 @@
-#  IMPORTANT NOTES:
-#	Known issues:
-#	1) When a non-empty category is deleted, the program does not remove all the objects inside of
-#	   it automatically, they need to be taken away manually. It is known that this is not what
-#	   the exercise requires.
-		
-		.macro read_int
+		macro read_int
 		li $v0,5
 		syscall
 		.end_macro
