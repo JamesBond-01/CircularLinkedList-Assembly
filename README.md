@@ -1,6 +1,6 @@
-# Double Circular Linked List
+# Doubly Circular Linked List
 ## Introduction
-This is a program developed in Assembly for MIPS R2000, which consists in making a double circular linked list as shown here:
+This is a program developed in Assembly for MIPS R2000, which consists in making a doubly circular linked list as shown here:
 <br>
 ![image](https://github.com/JamesBond-01/CircularLinkedList-Assembly/assets/72282343/61e84e2d-9bde-4ead-9464-23fc7d4d18d9)
 <br>
